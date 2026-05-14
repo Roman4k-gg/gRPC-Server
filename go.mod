@@ -1,4 +1,4 @@
-module sso-server
+module gRPC-Server
 
 go 1.25.0
 
