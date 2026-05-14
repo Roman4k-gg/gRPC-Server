@@ -1,4 +1,4 @@
-module gRPC-Server
+module github.com/Roman4k-gg/gRPC-Server
 
 go 1.25.0
 
